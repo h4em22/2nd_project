@@ -11,7 +11,7 @@
 |---|---|
 | 프로젝트명 | Hotel Reservation Security Monitoring System (HRSMS) |
 | 진행 기간 | 2026.06.01 ~ 2026.06.19 |
-| 팀 구성 | 2팀 \| 2지(Easy)하조 \| 김혜미(팀장), 남재근, 신연선, 신재훈, 홍기수 |
+| 팀 구성 | 2팀 \| 2지(Easy)하조 \| 김혜미(팀장) 외 4명 |
 | 핵심 기술 | GNS3, Ubuntu, pfSense, Suricata, rsyslog, Graylog, GoAccess, PMM |
 
 **선정 배경**
